@@ -1,0 +1,2 @@
+# -University-Registration-System-
+In this project you will write five classes. The first will be a class that represents a person. The second will be a class that represents a college student. The third will an instructor. The fourth class will simulate a class membership list. The fifth will be a test class to verify exhaustively the correctness of the other four classes; you should test at least once for each method.
